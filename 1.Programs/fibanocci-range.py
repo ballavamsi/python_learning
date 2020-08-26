@@ -1,4 +1,6 @@
-li = []
+#li = []
+# should be using below instead of above
+li = list()
 
 def fibanocci(minnum,maxnum):
     a = 0
